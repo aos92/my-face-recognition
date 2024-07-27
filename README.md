@@ -1,1 +1,1 @@
-# aos92-aos92-esp32cam-face-recognition
+# face-recognition
